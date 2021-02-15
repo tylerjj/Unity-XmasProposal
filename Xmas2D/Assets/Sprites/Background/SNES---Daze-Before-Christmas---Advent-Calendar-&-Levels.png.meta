@@ -1,0 +1,4108 @@
+fileFormatVersion: 2
+guid: 69989bcae2a344948886626e25deba2b
+timeCreated: 1482970742
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_0
+    21300002: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_1
+    21300004: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_2
+    21300006: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_3
+    21300008: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_4
+    21300010: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_5
+    21300012: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_6
+    21300014: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_7
+    21300016: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_8
+    21300018: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_9
+    21300020: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_10
+    21300022: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_11
+    21300024: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_12
+    21300026: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_13
+    21300028: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_14
+    21300030: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_15
+    21300032: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_16
+    21300034: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_17
+    21300036: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_18
+    21300038: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_19
+    21300040: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_20
+    21300042: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_21
+    21300044: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_22
+    21300046: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_23
+    21300048: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_24
+    21300050: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_25
+    21300052: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_26
+    21300054: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_27
+    21300056: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_28
+    21300058: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_29
+    21300060: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_30
+    21300062: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_31
+    21300064: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_32
+    21300066: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_33
+    21300068: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_34
+    21300070: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_35
+    21300072: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_36
+    21300074: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_37
+    21300076: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_38
+    21300078: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_39
+    21300080: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_40
+    21300082: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_41
+    21300084: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_42
+    21300086: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_43
+    21300088: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_44
+    21300090: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_45
+    21300092: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_46
+    21300094: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_47
+    21300096: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_48
+    21300098: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_49
+    21300100: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_50
+    21300102: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_51
+    21300104: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_52
+    21300106: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_53
+    21300108: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_54
+    21300110: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_55
+    21300112: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_56
+    21300114: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_57
+    21300116: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_58
+    21300118: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_59
+    21300120: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_60
+    21300122: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_61
+    21300124: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_62
+    21300126: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_63
+    21300128: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_64
+    21300130: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_65
+    21300132: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_66
+    21300134: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_67
+    21300136: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_68
+    21300138: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_69
+    21300140: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_70
+    21300142: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_71
+    21300144: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_72
+    21300146: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_73
+    21300148: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_74
+    21300150: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_75
+    21300152: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_76
+    21300154: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_77
+    21300156: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_78
+    21300158: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_79
+    21300160: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_80
+    21300162: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_81
+    21300164: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_82
+    21300166: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_83
+    21300168: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_84
+    21300170: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_85
+    21300172: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_86
+    21300174: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_87
+    21300176: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_88
+    21300178: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_89
+    21300180: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_90
+    21300182: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_91
+    21300184: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_92
+    21300186: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_93
+    21300188: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_94
+    21300190: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_95
+    21300192: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_96
+    21300194: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_97
+    21300196: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_98
+    21300198: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_99
+    21300200: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_100
+    21300202: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_101
+    21300204: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_102
+    21300206: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_103
+    21300208: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_104
+    21300210: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_105
+    21300212: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_106
+    21300214: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_107
+    21300216: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_108
+    21300218: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_109
+    21300220: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_110
+    21300222: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_111
+    21300224: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_112
+    21300226: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_113
+    21300228: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_114
+    21300230: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_115
+    21300232: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_116
+    21300234: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_117
+    21300236: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_118
+    21300238: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_119
+    21300240: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_120
+    21300242: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_121
+    21300244: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_122
+    21300246: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_123
+    21300248: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_124
+    21300250: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_125
+    21300252: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_126
+    21300254: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_127
+    21300256: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_128
+    21300258: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_129
+    21300260: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_130
+    21300262: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_131
+    21300264: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_132
+    21300266: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_133
+    21300268: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_134
+    21300270: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_135
+    21300272: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_136
+    21300274: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_137
+    21300276: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_138
+    21300278: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_139
+    21300280: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_140
+    21300282: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_141
+    21300284: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_142
+    21300286: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_143
+    21300288: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_144
+    21300290: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_145
+    21300292: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_146
+    21300294: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_147
+    21300296: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_148
+    21300298: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_149
+    21300300: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_150
+    21300302: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_151
+    21300304: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_152
+    21300306: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_153
+    21300308: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_154
+    21300310: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_155
+    21300312: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_156
+    21300314: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_157
+    21300316: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_158
+    21300318: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_159
+    21300320: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_160
+    21300322: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_161
+    21300324: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_162
+    21300326: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_163
+    21300328: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_164
+    21300330: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_165
+    21300332: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_166
+    21300334: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_167
+    21300336: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_168
+    21300338: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_169
+    21300340: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_170
+    21300342: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_171
+    21300344: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_172
+    21300346: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_173
+    21300348: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_174
+    21300350: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_175
+    21300352: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_176
+    21300354: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_177
+    21300356: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_178
+    21300358: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_179
+    21300360: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_180
+    21300362: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_181
+    21300364: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_182
+    21300366: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_183
+    21300368: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_184
+    21300370: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_185
+    21300372: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_186
+    21300374: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_187
+    21300376: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_188
+    21300378: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_189
+    21300380: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_190
+    21300382: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_191
+    21300384: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_192
+    21300386: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_193
+    21300388: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_194
+    21300390: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_195
+    21300392: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_196
+    21300394: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_197
+    21300396: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_198
+    21300398: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_199
+    21300400: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_200
+    21300402: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_201
+    21300404: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_202
+    21300406: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_203
+    21300408: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_204
+    21300410: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_205
+    21300412: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_206
+    21300414: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_207
+    21300416: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_208
+    21300418: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_209
+    21300420: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_210
+    21300422: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_211
+    21300424: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_212
+    21300426: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_213
+    21300428: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_214
+    21300430: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_215
+    21300432: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_216
+    21300434: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_217
+    21300436: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_218
+    21300438: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_219
+    21300440: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_220
+    21300442: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_221
+    21300444: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_222
+    21300446: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_223
+    21300448: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_224
+    21300450: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_225
+    21300452: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_226
+    21300454: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_227
+    21300456: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_228
+    21300458: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_229
+    21300460: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_230
+    21300462: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_231
+    21300464: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_232
+    21300466: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_233
+    21300468: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_234
+    21300470: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_235
+    21300472: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_236
+    21300474: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_237
+    21300476: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_238
+    21300478: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_239
+    21300480: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_240
+    21300482: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_241
+    21300484: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_242
+    21300486: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_243
+    21300488: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_244
+    21300490: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_245
+    21300492: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_246
+    21300494: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_247
+    21300496: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_248
+    21300498: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_249
+    21300500: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_250
+    21300502: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_251
+    21300504: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_252
+    21300506: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_253
+    21300508: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_254
+    21300510: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_255
+    21300512: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_256
+    21300514: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_257
+    21300516: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_258
+    21300518: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_259
+    21300520: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_260
+    21300522: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_261
+    21300524: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_262
+    21300526: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_263
+    21300528: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_264
+    21300530: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_265
+    21300532: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_266
+    21300534: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_267
+    21300536: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_268
+    21300538: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_269
+    21300540: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_270
+    21300542: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_271
+    21300544: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_272
+    21300546: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_273
+    21300548: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_274
+    21300550: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_275
+    21300552: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_276
+    21300554: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_277
+    21300556: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_278
+    21300558: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_279
+    21300560: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_280
+    21300562: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_281
+    21300564: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_282
+    21300566: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_283
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1144
+        width: 173
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1143
+        width: 179
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1216
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_7
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1174
+        width: 215
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1310
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1310
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1310
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1310
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_22
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1206
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1206
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1206
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1206
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_28
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1200
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_30
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1200
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1200
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_34
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1200
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_35
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1200
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1155
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1158
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_39
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_41
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1158
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_42
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1158
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_43
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1158
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_44
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1158
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_45
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1155
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1158
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1158
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_48
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_49
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_50
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_51
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_52
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_53
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1158
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_54
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_55
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1143
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_56
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1143
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_57
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1143
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_59
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1143
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1143
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_61
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1143
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_62
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1143
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1143
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_65
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_66
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1127
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_68
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_69
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_70
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_71
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1127
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1127
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_74
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1127
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1127
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 950
+        width: 151
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_77
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 953
+        width: 208
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_78
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_79
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 939
+        width: 238
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 934
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 934
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 934
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 934
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 934
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 934
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_86
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 934
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_87
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 936
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_88
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 936
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 936
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_90
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 936
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 936
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_92
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 936
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 936
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_94
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 936
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 936
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_96
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 936
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_97
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 936
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 944
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_99
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 944
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_100
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 944
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 944
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_102
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 944
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_103
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 944
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_104
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 944
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 944
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_106
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 944
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_107
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_108
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 919
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_109
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_110
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_111
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_112
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_113
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_114
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 919
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_115
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_116
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 919
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_117
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 919
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_118
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 919
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_119
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 919
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 744
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_121
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 704
+        width: 133
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_122
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 721
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_123
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 760
+        width: 195
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 760
+        width: 178
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_125
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_126
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 745
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_127
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_128
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 745
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_129
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 745
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_130
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 745
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_131
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_132
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 745
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_133
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_134
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 745
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_135
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_136
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_137
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_138
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 745
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_139
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 745
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_140
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_141
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_142
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 745
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_143
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 745
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_145
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_146
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_147
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_151
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 728
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_152
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 728
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_153
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_154
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_155
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_156
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 706
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_158
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_159
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_160
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_161
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_162
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 706
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_163
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 706
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_164
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 686
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_165
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 686
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_166
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 686
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_167
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 686
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 161
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_169
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 535
+        width: 197
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_170
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 519
+        width: 191
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_171
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 524
+        width: 243
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_172
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_173
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_174
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_176
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 520
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_177
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_178
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 520
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_179
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_180
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_181
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_182
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_183
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 520
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_184
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 520
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_185
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 509
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_186
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 509
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_187
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 509
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_188
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 509
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_189
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 509
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_190
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 509
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_191
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 509
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_192
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 509
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_193
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_194
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 504
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_195
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_196
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_197
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 504
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_198
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 504
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_199
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_200
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_201
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 504
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_202
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 504
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_203
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_204
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 504
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_205
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 504
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_206
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_207
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 457
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_208
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_209
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 457
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_210
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 457
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_211
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_212
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 457
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_213
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 457
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_214
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 457
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_215
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 457
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_216
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 193
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_217
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 263
+        width: 178
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_218
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 274
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_219
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 226
+        width: 256
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_220
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_221
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 283
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_222
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_223
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_224
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_225
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_226
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_227
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_228
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_229
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_230
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_232
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_233
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 248
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_234
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 248
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_235
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 248
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_236
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 259
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_237
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 259
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_238
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_239
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 259
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_240
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 259
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_241
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 259
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_242
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 259
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_243
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 209
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_244
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 209
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_245
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 43
+        width: 216
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_246
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18
+        width: 240
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_247
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 50
+        width: 193
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_248
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 50
+        width: 167
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_249
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_250
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_251
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_252
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 28
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_253
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 28
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_254
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_255
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_256
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 28
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_257
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_258
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 28
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_259
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_260
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_261
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_262
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_263
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_264
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 35
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_265
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_266
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_267
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_268
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 35
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_269
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 35
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_270
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_271
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_272
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 35
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_273
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_274
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_275
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_276
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_277
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_278
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_279
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_280
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_281
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_282
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES---Daze-Before-Christmas---Advent-Calendar-&-Levels_283
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

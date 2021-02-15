@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 66b300a0b1a287240a2b5e65dd8c1ecd
+timeCreated: 1482970642
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC-Computer---Bloody-Fun-Day---Gift_0
+    21300002: PC-Computer---Bloody-Fun-Day---Gift_1
+    21300004: PC-Computer---Bloody-Fun-Day---Gift_2
+    21300006: PC-Computer---Bloody-Fun-Day---Gift_3
+    21300008: PC-Computer---Bloody-Fun-Day---Gift_4
+    21300010: PC-Computer---Bloody-Fun-Day---Gift_5
+    21300012: PC-Computer---Bloody-Fun-Day---Gift_6
+    21300014: PC-Computer---Bloody-Fun-Day---Gift_7
+    21300016: PC-Computer---Bloody-Fun-Day---Gift_8
+    21300018: PC-Computer---Bloody-Fun-Day---Gift_9
+    21300020: PC-Computer---Bloody-Fun-Day---Gift_10
+    21300022: PC-Computer---Bloody-Fun-Day---Gift_11
+    21300024: PC-Computer---Bloody-Fun-Day---Gift_12
+    21300026: PC-Computer---Bloody-Fun-Day---Gift_13
+    21300028: PC-Computer---Bloody-Fun-Day---Gift_14
+    21300030: PC-Computer---Bloody-Fun-Day---Gift_15
+    21300032: PC-Computer---Bloody-Fun-Day---Gift_16
+    21300034: PC-Computer---Bloody-Fun-Day---Gift_17
+    21300036: PC-Computer---Bloody-Fun-Day---Gift_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 46
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 22
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 22
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 22
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC-Computer---Bloody-Fun-Day---Gift_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

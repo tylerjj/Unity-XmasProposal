@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmas2D.Plugins", "Xmas2D.Plugins.csproj", "{B932CEE3-B680-E606-F334-34AB9627C19C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmas2D", "Xmas2D.csproj", "{4214F3D8-E4AB-2FE7-BC31-435F0AAED538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmas2D.Editor.Plugins", "Xmas2D.Editor.Plugins.csproj", "{9245390F-742F-6778-2603-D7306794555D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B932CEE3-B680-E606-F334-34AB9627C19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B932CEE3-B680-E606-F334-34AB9627C19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B932CEE3-B680-E606-F334-34AB9627C19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B932CEE3-B680-E606-F334-34AB9627C19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4214F3D8-E4AB-2FE7-BC31-435F0AAED538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4214F3D8-E4AB-2FE7-BC31-435F0AAED538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4214F3D8-E4AB-2FE7-BC31-435F0AAED538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4214F3D8-E4AB-2FE7-BC31-435F0AAED538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9245390F-742F-6778-2603-D7306794555D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9245390F-742F-6778-2603-D7306794555D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9245390F-742F-6778-2603-D7306794555D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9245390F-742F-6778-2603-D7306794555D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
